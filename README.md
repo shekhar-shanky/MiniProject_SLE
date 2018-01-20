@@ -1,7 +1,6 @@
 ## Mini Project | Supervised Learning and Ensembles
-----
 #### Submitted By: GROUP 5
-
+----
 **Team Members**
 
 > **Sandeep Keswani**
@@ -12,14 +11,17 @@
 
 > **Shashank Shekhar**
 
-#### Case Study
+----
+
+
+### Case Study
 **Campaign for selling personal loans**
 
-This case is about a bank (Thera Bank) which has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a healthy conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.
-The department wants to build a model that will help them identify the potential customers who have higher probability of purchasing the loan. This will increase the success ratio while at the same time reduce the cost of the campaign.
-The file given below contains data on 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank (mortgage, securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan). Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.
+This case is about a bank (**Thera Bank**) which has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly **to bring in more loan business** and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a healthy conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.
+**The department wants to build a model that will help them identify the potential customers who have higher probability of purchasing the loan.** This will increase the success ratio while at the same time reduce the cost of the campaign.
+The file given below contains data on **5000 customers**. The data include customer demographic information (_age, income, etc._), the customer's relationship with the bank (_mortgage, securities account, etc._), and the **customer response to the last personal loan campaign (Personal Loan).** Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that was offered to them in the earlier campaign.
 
-Data Set: **Bank_Personal_Loan_Modelling-1.xlsx**
+Data Set: **_Bank_Personal_Loan_Modelling-1.xlsx_**
 
 #### Considering the information provided above, follow the steps given below:
 
@@ -49,3 +51,5 @@ Data Set: **Bank_Personal_Loan_Modelling-1.xlsx**
     5. Step 5 : 10 points 
     6. Step 6 : 10 points 
     7. Step 7 : 10 points
+    
+----
